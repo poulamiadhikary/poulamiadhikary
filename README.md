@@ -1,7 +1,7 @@
 ###
 
 <div align="center">
-  <img height="370" src="https://github.com/isudiptodas/isudiptodas/blob/main/Banner.png"  />
+  <img height="370" src="https://github.com/poulamiadhikary/poulamiadhikary/blob/main/github_banner.png"  />
 </div>
 
 ###
