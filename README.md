@@ -112,3 +112,4 @@ In addition to this I also have proficiency in Figma, I love crafting intuitive 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=poulamiadhikary&label=Profile%20views&color=0e75b6&style=flat" alt="poulamiadhikary" /> </p>
 
 ###
+
