@@ -62,7 +62,6 @@ In addition to this I also have proficiency in Figma, I love crafting intuitive 
   <img width="20" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/react.png" height="40" alt="react" />
   <img width="25" />
-  <br><br>
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/mysql.png" height="40" alt="mysql" />
   <img width="25" />
   <img src="https://github.com/isudiptodas/isudiptodas/blob/main/figma.png" height="40" alt="figma" />
